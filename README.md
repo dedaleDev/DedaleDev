@@ -18,5 +18,5 @@ IT student in networks and telecommunications, I'm passionate about programming 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![TryHackMe](https://tryhackme.com/badge/2572820))
+![Try Hack Me](<img src="https://tryhackme-badges.s3.amazonaws.com/dedaleSec.png" alt="TryHackMe">)
 
