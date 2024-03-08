@@ -18,4 +18,4 @@ IT student in networks and telecommunications, I'm passionate about programming 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whit)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Flavien-Dieval&theme=blue-green)
+<script src="https://tryhackme.com/badge/2572820"></script>
