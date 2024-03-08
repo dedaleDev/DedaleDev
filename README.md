@@ -17,5 +17,6 @@ IT student in networks and telecommunications, I'm passionate about programming 
 ![Adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whit)
-
+<div class="aside">
 <script src="https://tryhackme.com/badge/2572820"></script>
+<\div>
