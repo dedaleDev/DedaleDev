@@ -1,5 +1,5 @@
 # 🚀 About Me:
-IT student in BUT networks and telecommunications at IUT Valence, I'm passionate about programming and cybersecurity.<br>
+IT student in BUT networks and telecommunications, I'm passionate about programming and cybersecurity.<br>
 
 # 💻 Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
