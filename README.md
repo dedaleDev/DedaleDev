@@ -18,5 +18,6 @@ IT student in BUT networks and telecommunications, I'm passionate about programm
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+#Try Hack Me : 
 
 ![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/dedaleSec.png)
