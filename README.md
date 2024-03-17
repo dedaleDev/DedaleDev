@@ -11,6 +11,9 @@ IT student in BUT networks and telecommunications, I'm passionate about programm
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+# Try Hack Me : 
+![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/dedaleSec.png)
+
 # Other :
 ![Adobe After Effect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=39366)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -19,5 +22,3 @@ IT student in BUT networks and telecommunications, I'm passionate about programm
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-# Try Hack Me : 
-![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/dedaleSec.png)
