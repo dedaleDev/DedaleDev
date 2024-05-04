@@ -12,6 +12,7 @@ IT student in BUT networks and telecommunications, I'm passionate about programm
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Try Hack Me : 
+![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/dedaleSec.png)
 
 # Other :
 ![Adobe After Effect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=39366)
