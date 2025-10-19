@@ -1,5 +1,5 @@
 # 🚀 About Me:
-IT student in BUT networks and telecommunications, I'm passionate about programming and cybersecurity.<br>
+Cybersecurity Student at Télécom Nancy<br>
 
 # 💻 Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
